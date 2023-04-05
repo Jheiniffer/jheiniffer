@@ -1,7 +1,6 @@
 ### Olá! eu sou a Jheiniffer
-- 🌱 Estudando atualmente Java
-- 😄 Pronouns: ela/dela
 - 💻 Terceiro semestre ADS
+- 🌱 Estudando atualmente Java
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jheiniffer&show_icons=true&theme=synthwave)
 
